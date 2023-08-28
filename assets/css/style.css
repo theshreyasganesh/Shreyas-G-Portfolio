@@ -105,8 +105,8 @@
 \*-----------------------------------*/
 
 *, *::before, *::after {
-  margin: 5;
-  padding: 5;
+  margin: 0;
+  padding: 0;
   box-sizing: border-box;
 }
 
@@ -155,7 +155,7 @@ article {
   background: var(--eerie-black-2);
   border: 1px solid var(--jet);
   border-radius: 20px;
-  padding: 25px;
+  padding: 15px;
   box-shadow: var(--shadow-1);
   z-index: 1;
 }
